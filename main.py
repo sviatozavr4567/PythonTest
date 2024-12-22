@@ -27,7 +27,7 @@ def start(message):
 
     # Обработка текста
 
-#dfddf
+#dfddfьь
 @bot.message_handler(func=lambda message: True)
 def handle_message(message):
     if message.text == "Часто задаваемые вопросы":
